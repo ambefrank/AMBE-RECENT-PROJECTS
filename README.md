@@ -60,8 +60,12 @@ Follow my personal blog here:https://dev.to/yeshwanthlm/ \
 Follow us on Instagram: https://www.instagram.com/amonkincloud/ \
 For queries write to us at: amonkincloud@gmail.com 
 
-## for the amazone connect project
+## For the amazone connect project
  ## Created a customer service call center with amazon connect for a ccompany called: ambe Gadget Company
  --------------------------------------------------
 youtube tutorial:
  https://www.youtube.com/watch?v=yKNb6db_d7c&list=PLGhcieJ42HtH7fksyhSnTu4mv6G1HsU9o&ab_channel=ArchitectureBytes
+
+ ## For the Amazon lex BurgerBuddy project
+
+ ## For the Facial Recognition project
