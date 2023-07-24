@@ -15,8 +15,12 @@ This advanced demo consists of 5 stages :-
 - STAGE 2 : Create Google API Project & Client ID  
 - STAGE 3 : Create Cognito Identity Pool  
 - STAGE 4 : Update App Bucket & Test Application  
-- STAGE 5 : Cleanup the account    
+- STAGE 5 : Cleanup the account  
 
+![Stage1 - PNG](https://github.com/acantril/learn-cantrill-io-labs/blob/master/aws-cognito-web-identity-federation/02_LABINSTRUCTIONS/ARCHITECTURE-STAGE1.png)  
+
+# Video Guide
+[Stage1 - Video Guide](https://youtu.be/DyiJZz07g_E)
 
 
 # STAGE 1A - Login to an AWS Account    

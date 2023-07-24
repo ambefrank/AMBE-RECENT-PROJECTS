@@ -17,6 +17,10 @@ This advanced demo consists of 5 stages :-
 - STAGE 4 : Update App Bucket & Test Application  
 - STAGE 5 : Cleanup the account  
 
+![Stage3 - PNG](https://github.com/acantril/learn-cantrill-io-labs/blob/master/aws-cognito-web-identity-federation/02_LABINSTRUCTIONS/ARCHITECTURE-STAGE3.png)  
+
+# Video Guide
+[Stage3 - Video Guide](https://youtu.be/MXkqOgXkwRQ)
 
 
 # STAGE 3A - CREATE A COGNITO IDENTITY POOL  

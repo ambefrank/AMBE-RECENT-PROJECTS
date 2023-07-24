@@ -1,4 +1,4 @@
-Description: aws-cognito-web-identity-federation
+Description: Ambe-aws-cognito-web-identity-federation
 Parameters:
   labss3contentbucket:
     Description: Bucket for labs s3 content
@@ -42,6 +42,7 @@ Resources:
         BlockPublicPolicy: false
         IgnorePublicAcls: false
         RestrictPublicBuckets: false
+      AccessControl: PublicRead
       WebsiteConfiguration:
         IndexDocument: index.html
         ErrorDocument: error.html
