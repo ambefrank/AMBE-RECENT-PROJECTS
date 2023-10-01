@@ -50,7 +50,7 @@ Access-Control-Allow-Methods: POST
 
 ```
 
-## Step 5: Test the Application
+## Step 7: Test the Application
 
 
 
