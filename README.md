@@ -54,12 +54,6 @@ Access-Control-Allow-Methods: POST
 
 
 
-Follow our tutorials here: https://www.youtube.com/@amonkincloud/videos \
-Follow our blog here: https://amonkincloud.com/ \
-Follow my personal blog here:https://dev.to/yeshwanthlm/ \
-Follow us on Instagram: https://www.instagram.com/amonkincloud/ \
-For queries write to us at: amonkincloud@gmail.com 
-
 ## For the amazone connect project
  ## Created a customer service call center with amazon connect for a ccompany called: ambe Gadget Company
  --------------------------------------------------
